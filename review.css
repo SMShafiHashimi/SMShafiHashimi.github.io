@@ -1,0 +1,43 @@
+.bgimg {
+	background-image: url('https://steamuserimages-a.akamaihd.net/ugc/707400405226960211/63811089BE388085725F6E16EFD32C508ADEC491/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
+		background-size:100%
+		
+}
+div{
+p{
+	font-family: High Speed;
+	font-size: 100%;
+	width:500px;
+	color: red;
+}
+}
+
+.img{
+	width:40%;
+	height:auto;
+	
+}
+#article{
+	font-family: High Speed;
+	font-size: 80%;
+	width:300px;
+	color: red;
+
+}
+
+
+#main{
+	font-family: High Speed;
+	font-size: 100%;
+	width:500px;
+	color: red;
+
+}
+
+#footer{
+	font-family: High Speed;
+	font-size: 80%;
+	width:200px;
+	color: red;
+
+}
