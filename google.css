@@ -1,0 +1,48 @@
+  body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+			background-color: white;
+			
+        }
+
+        #search-container {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        #search-box {
+			display: block;
+			margin: 120px;
+			position: relative;
+			right: 10%;
+            width: 75%;
+            padding: 10px;
+            font-size: 16px;
+			color:lightgray;
+			font-family:High Speed;
+        }
+
+        #search-button {
+			bottom: 520px;
+            padding: 5px 20px;
+            font-size: 16px;
+            cursor: pointer;
+			font-family:High Speed;
+        }
+		
+		fL{
+			width:auto;
+			float:left;
+		}
+		#google-logo{
+			 display: block;
+        position: absolute;
+		width: 50%;
+		hieght: 30%;
+        position: absolute;
+        top: 50px; /* Abstand vom oberen Rand */
+        left: 50%;
+        transform: translateX(-50%);
+			
+		}
